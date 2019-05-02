@@ -6,7 +6,7 @@ Built with crosstool-ng-1.24.0
 
 ## Components used
 
-- linux-5.0.10
+- linux-5.0.11
 - gmp-6.1.2
 - mpfr-4.0.2
 - isl-0.20
