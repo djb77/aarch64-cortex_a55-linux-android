@@ -2,11 +2,11 @@
 
 GNU GCC 8.3.0 Toolchain
 
-Built with crosstool-ng-1.24.0
+Built with crosstool-ng-1.24.0.6-afaf7b9
 
 ## Components used
 
-- linux-5.0.11
+- linux-5.1
 - gmp-6.1.2
 - mpfr-4.0.2
 - isl-0.20
